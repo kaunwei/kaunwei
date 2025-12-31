@@ -48,19 +48,9 @@ I am a passionate **AI & Machine Learning Engineer** with strong expertise in **
 ---
 
 ## 📂 Featured Projects
-- 🧠 **Brain Tumor Detection & Segmentation (YOLO + SAM)**
-- 🍕 **Pizza Price Prediction (ML + Django)**
-- 🌦️ **Weather Forecasting using RNN**
-- 📈 **AI-driven Business Insights Projects**
+- 🧠 **SyncSketch-Structure-Preserving-Sketch-to-Image-Generation**
 
 ➡️ Check my repositories for **clean code, proper documentation, and real use cases**.
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ---
 
