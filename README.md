@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Ayesha Khan
 
-🚀 **Machine Learning & AI Engineer | Python Developer | Business Development Professional**
+ **Machine Learning & AI Engineer | Python Developer | Business Development Professional**
 
 I am a passionate **AI & Machine Learning Engineer** with strong expertise in **Python, Data Science, and AI-driven solutions**, combined with hands-on **business development experience**. I bridge the gap between **technical implementation and business impact**.
 
