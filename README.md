@@ -1,4 +1,4 @@
-![logo](https://github.com/kaunwei/kaunwei/blob/main/banner.png)
+<img width="376" height="169" alt="1222" src="https://github.com/user-attachments/assets/ab4a2d11-444c-49db-a1bb-6f2675a2e76d" />
 
 ## 👋 Hi, I'm Ayesha Khan
 
