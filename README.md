@@ -57,6 +57,5 @@ I am a passionate **AI & Machine Learning Engineer** with strong expertise in **
 ## 🤝 Let's Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/ayesha-khan-2b058020a/
 - 📧 Email: ayesha156781@gmail.com
-- 🌐 Portfolio: https://www.upwork.com/freelancers/~0105c8694d0f7a4fe9
-
+- 🌐 Portfolio: https://ayeshakhan.gt.tc/?i=2
 ⭐ *If you like my work, feel free to star the repositories!*
