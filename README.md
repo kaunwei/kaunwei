@@ -1,5 +1,3 @@
-<img width="376" height="169" alt="1222" src="https://github.com/user-attachments/assets/ab4a2d11-444c-49db-a1bb-6f2675a2e76d" />
-
 ## 👋 Hi, I'm Ayesha Khan
 
  **Machine Learning & AI Engineer | Python Developer | Business Development Professional**
@@ -58,4 +56,7 @@ I am a passionate **AI & Machine Learning Engineer** with strong expertise in **
 - 💼 LinkedIn: https://www.linkedin.com/in/ayesha-khan-2b058020a/
 - 📧 Email: ayesha156781@gmail.com
 - 🌐 Portfolio: https://ayeshakhan.gt.tc/?i=2
+  
+---
+
 ⭐ *If you like my work, feel free to star the repositories!*
